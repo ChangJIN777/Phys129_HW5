@@ -26,7 +26,7 @@ def deterMandelbrot(c):
     except ValueError:
         print('Invalid input.')
 
-
+# specify the size of the image
 X = 512
 Y = 384
 

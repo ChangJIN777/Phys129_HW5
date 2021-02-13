@@ -42,8 +42,6 @@ for j in range(Y):
 #
 # cut a white triangle inside the filled blue triangle (requirement 3)
 #
-Y_mode = int(Y*(1/2))
-X_mode = int(X*(1/2))
 for j in range(Y):
        for i in range(X):
            if j<=(i*(3/4)-Y//15) and (j>(bordertop1+Y//20)) and (i<(Y-(bordertop3+Y//20))):
