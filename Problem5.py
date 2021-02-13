@@ -16,11 +16,11 @@ def Airy_pattern_gen(x):
     return I
 
 # f1,ax = plt.subplot()
-fig = plt.figure(num=1, clear=True)
-ax1 = fig.add_subplot(1, 1, 1, projection='3d')
+fig1 = plt.figure(num=1, clear=True)
+ax1 = fig1.add_subplot(1, 1, 1, projection='3d')
 
 r = np.linspace(10**(-10),3.5*10**(-7),10000,endpoint=True) # normalized radius
-theta = np.linspace(0,2*np.pi,10000)
+theta = np.linspace(0,2*np.pi,3600)
 
 R, T = np.meshgrid(r,theta)
 X, Y = R*np.cos(T), R*np.sin(T)
@@ -33,8 +33,8 @@ X, Y = R*np.cos(T), R*np.sin(T)
 I = Airy_pattern_gen(R)
 surf = ax1.plot_surface(X,Y,I,cmap='binary',norm=LogNorm())
 # ax1.set_zscale('log')
-ax1.set_xlabel(r'x = r$\cdot cos\theta$')
-ax1.set_ylabel(r'y = r$\cdot sin\theta$')
+ax1.set_xlabel('x (arcseconds)')
+ax1.set_ylabel('y (arcseconds)')
 ax1.set_zlabel('Normalized Intensity')
-fig.colorbar(surf,ax=ax1)
+fig1.colorbar(surf,ax=ax1)
 plt.show()
