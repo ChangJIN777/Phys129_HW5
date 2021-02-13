@@ -35,7 +35,7 @@ for j in range(Y):
 # 
 for j in range(Y):
        for i in range(X):
-           if j>i:
+           if j>i*(3/4):
                pvals[i,j,0] = 0xff  # red
                pvals[i,j,1] = 0xff    # green
 
@@ -46,7 +46,7 @@ Y_mode = int(Y*(1/2))
 X_mode = int(X*(1/2))
 for j in range(Y):
        for i in range(X):
-           if j<=(i-Y//10) and (j>(bordertop1+Y//15)) and (i<(Y-(bordertop3+Y//15))):
+           if j<=(i*(3/4)-Y//15) and (j>(bordertop1+Y//20)) and (i<(Y-(bordertop3+Y//20))):
                pvals[i,j,0] = 0xff  # red
                pvals[i,j,1] = 0xff  # green
 
@@ -72,7 +72,7 @@ f1.canvas.blit(ax1.bbox)
 # save image to TIFF file foo.tif
 #
 im = Image.fromarray(plotarr, 'RGB')
-im.save('Problem3.tif')
+im.save('Problem3.eps')
 
 input("\nPress <Enter> to exit...\n")
 

@@ -1,0 +1,12 @@
+total 640
+	drwxrwxrwx  1 changjin  staff  16384 Oct  1 21:49 ./
+	drwxrwxrwx@ 1 changjin  staff  49152 Feb 13 02:20 ../
+	-rwxrwxrwx  1 changjin  staff   4096 Oct  1 21:49 ._Saturation_analyzer.mlx*
+	-rwxrwxrwx  1 changjin  staff  22666 Sep 21 01:22 NV_1.fig*
+	-rwxrwxrwx  1 changjin  staff  22654 Sep 21 01:35 NV_1_no2.fig*
+	-rwxrwxrwx  1 changjin  staff  22391 Sep 21 01:25 NV_2.fig*
+	drwxrwxrwx  1 changjin  staff  16384 Sep 29 17:22 S014 saturation/
+	-rwxrwxrwx@ 1 changjin  staff  42699 Sep 29 14:34 Saturation_analyzer.mlx*
+	drwxrwxrwx  1 changjin  staff  16384 Sep 23 00:35 after final alignment/
+	-rwxrwxrwx  1 changjin  staff  22526 Sep 21 01:27 background.fig*
+	-rwxrwxrwx  1 changjin  staff  22625 Sep 21 01:29 background2.fig*

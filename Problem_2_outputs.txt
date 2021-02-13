@@ -1,0 +1,153 @@
+1,11d0
+	< #!/usr/bin/env python3
+	< 
+	< #
+	< # img.py - Display RGB image in Python
+	< #
+	< # 25Apr20  Added call to f1.canvas.draw() to prevent problem with draw_artist()
+	< # 13Jul16  Updated to use object-oriented interface to matplotlib
+	< #          and function reliably when X and Y are changed
+	< # 05May16  Everett Lipman
+	< #
+	< 
+	17,21c6,8
+	< #
+	< # image size
+	< #
+	< X = 320
+	< Y = 200
+	---
+	> # image size 
+	> X = 512
+	> Y = 512
+	23,28d9
+	< #
+	< # array for image data (pixel values): x,y,color[0:2]
+	< #
+	< # color is (r,g,b).
+	< #    Each color level is specified using an 8-bit unsigned integer (0-255)
+	< #
+	33,36d13
+	< stripetop1 = int(Y/2 + Y/20)
+	< stripebot1 = int(Y/2 - Y/20)
+	< stripetop2 = int(0.8*Y + Y/20)
+	< stripebot2 = int(0.8*Y - Y/20)
+	38,54c15,26
+	< #
+	< # Note that arrays are typically indexed using entries
+	< # (i,j), where i is the row (vertical) and j is the column
+	< # (horizontal).  This is different from addressing points
+	< # (x,y) in the plane, where x, the first variable, indicates
+	< # horizontal position, and y, the second, indicates vertical
+	< # position.  To make i correspond with x and j with y, we
+	< # will transpose the pvals matrix below before displaying it.
+	< # Furthermore, it is customary in raster graphics for the
+	< # vertical dimension to increase downward from the upper
+	< # left-hand corner of the screen, while in typical x,y plots
+	< # the vertical dimension increases upward from the origin
+	< # at the lower left.  So we also flip the entries along
+	< # the vertical axis using np.flipud() before displaying.
+	< # This way the pixels (i,j) we assign in the array correspond
+	< # to the way we typically think of points in the x,y plane.
+	< #
+	---
+	> # 
+	> # set the border pixels to white (requirement 1)
+	> # 
+	> borderbottom1 = 0
+	> bordertop1 = int(Y/10)
+	> borderbottom2 = int(Y-Y/10)
+	> bordertop2 = Y
+	> borderbottom3 = 0
+	> bordertop3 = int(X/10)
+	> bordertop4 = X
+	> borderbottom4 = int(X-X/10)
+	> 
+	56,59c28,31
+	<    for i in range(X):
+	<        pvals[i,j,0] = i*rinc  # red
+	<        pvals[i,j,1] = 0x33    # green
+	<        pvals[i,j,2] = j*binc  # blue
+	---
+	>        for i in range(X):
+	>            pvals[i,j,0] = 0x0  # red
+	>            pvals[i,j,1] = 0x0    # green
+	>            pvals[i,j,2] = 0xff  # blue
+	62,64c34,40
+	< # example: set pixel to white
+	< #
+	< pvals[X//32,Y//20,:] = 0xff
+	---
+	> # have a filled blue triangle (requirement 2)
+	> # 
+	> for j in range(Y):
+	>        for i in range(X):
+	>            if j>i:
+	>                pvals[i,j,0] = 0xff  # red
+	>                pvals[i,j,1] = 0xff    # green
+	67,71c43
+	< # Transpose and flip rows so that origin is displayed at bottom left,
+	< # with x horizontal and y vertical.
+	< #
+	< # Note: changing pvals later WILL change plotarr!  plotarr is a
+	< # different 'view' of the same data.
+	---
+	> # cut a white triangle inside the filled blue triangle (requirement 3)
+	73,75c45,51
+	< # axes (0,1,2) transposed to (1,0,2), so x and y get interchanged.
+	< #
+	< plotarr = np.flipud(pvals.transpose(1,0,2))
+	---
+	> Y_mode = int(Y*(1/2))
+	> X_mode = int(X*(1/2))
+	> for j in range(Y):
+	>        for i in range(X):
+	>            if j<=(i-Y//10) and (j>(bordertop1+Y//15)) and (i<(Y-(bordertop3+Y//15))):
+	>                pvals[i,j,0] = 0xff  # red
+	>                pvals[i,j,1] = 0xff  # green
+	76a53,54
+	> # initialize the image
+	> plotarr = np.flipud(pvals.transpose(1,0,2))
+	78,81d55
+	< 
+	< #
+	< # interpolation='none' shows unaltered pixels at all scales
+	< #
+	83,86d56
+	< 
+	< #
+	< # turn off axis labels
+	< #
+	88,91d57
+	< 
+	< #
+	< # draw figure
+	< #
+	95,107c61,65
+	< #
+	< # update image while drawing stripe
+	< #
+	< for i in range(320):
+	<    pvals[i,stripebot1:stripetop1,:] = 0xff  # r,g,b all 255 (white)
+	<    picture.set_data(plotarr)
+	<    ax1.draw_artist(picture)
+	<    f1.canvas.blit(ax1.bbox)
+	< 
+	< #
+	< # a lot faster not to update and to use slicing instead of a loop
+	< #
+	< pvals[:,stripebot2:stripetop2,:] = (0,0,0xff)  # blue
+	---
+	> # update the image based on requirement 1
+	> pvals[:,borderbottom1:bordertop1,:] = (0xff,0xff,0xff)  # white
+	> pvals[:,borderbottom2:bordertop2,:] = (0xff,0xff,0xff)  # white
+	> pvals[borderbottom3:bordertop3,:,:] = (0xff,0xff,0xff)  # white
+	> pvals[borderbottom4:bordertop4,:,:] = (0xff,0xff,0xff)  # white
+	111a70
+	> 
+	116c75
+	< im.save('foo.tif')
+	---
+	> im.save('Problem3.tif')
+	118a78
+	> 

@@ -1,0 +1,196 @@
+total 6345696
+drwxrwxrwx@ 1 changjin  staff       49152 Feb 13 02:20 ./
+drwxr-xr-x  4 root      wheel         128 Feb 13 02:20 ../
+drwxrwxrwx  1 changjin  staff       16384 Nov 30  2018 .Spotlight-V100/
+drwxrwxrwx  1 changjin  staff       16384 Aug 22  2019 .TemporaryItems/
+drwxrwxrwx@ 1 changjin  staff       16384 Apr  2  2019 .Trashes/
+-rwxrwxrwx  1 changjin  staff        4096 Jan 31  2019 ._.Trashes*
+-rwxrwxrwx  1 changjin  staff        4096 Apr 21  2019 ._1811.04275.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Mar 13  2020 ._2020 CCS Summer Fellowship Application Form.docx*
+-rwxrwxrwx  1 changjin  staff        4096 Nov 30  2018 ._4A18FinalMaterials.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Nov 30  2018 ._4A18FinalPracticeProblems.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  4  2020 ._5_GeneLinkage.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  4  2020 ._5_GeneLinkageII.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  4  2020 ._5_GeneLinkageIII.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Aug  1  2019 ._AmScopeSetup_Newest.exe*
+-rwxrwxrwx  1 changjin  staff        4096 Aug  1  2019 ._AmScopeToupViewSetup.exe*
+-rwxrwxrwx  1 changjin  staff        4096 May  8  2019 ._Ariyaratne_et_al-2018-Nature_Communications.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Sep 17 23:48 ._ArroyoUpdate-x300-v2.15-B246.zip*
+-rwxrwxrwx  1 changjin  staff        4096 Nov 21  2019 ._English 10 Annotated Bibliography.docx*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  5  2019 ._Exp. 3 WEEK 2 DATA TABLES W19.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Nov 30  2018 ._HW 7 Correction.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 31  2019 ._HW WEEK 2 .pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jul 16  2020 ._Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4*
+-rwxrwxrwx  1 changjin  staff        4096 Jul 10  2020 ._ImageScan*
+-rwxrwxrwx  1 changjin  staff        4096 Jul 10  2020 ._ImageScan_v2019*
+-rwxrwxrwx  1 changjin  staff        4096 Apr  2  2019 ._N  H Acheson - Fundamentals of molecular virology (2011, John Wiley & Sons).pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 26  2020 ._Note Feb 23, 2020.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Mar  4  2020 ._Note Mar 2, 2020.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 19  2020 ._PS2.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 17  2020 ._PS4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Aug 20  2019 ._PSY_108_Ch.5_6.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Aug 20  2019 ._PSY_108_Chapteer_3_4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Aug 20  2019 ._PSY_108_Chapter_1_2.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Aug 20  2019 ._PSY_108_ch.4 end.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  7  2019 ._Phys CS 140 HW#3.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Mar 12  2019 ._Phys CS 32 HW WEEK 9.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Mar 12  2019 ._Phys CS 32 HW Week 7 Correction.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Apr 21  2019 ._PhysRevLett.122.076101.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 27  2020 ._Physics 102 HW WEEK 3.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Aug  1  2019 ._Physics 103 Final Formula Sheet.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  3  2020 ._Physics 104 HW 4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 20  2020 ._Physics 104 HW WEEK2.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Mar  3  2020 ._Physics 104 HW7.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 10  2020 ._Physics 104 Notes sheet.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  3  2020 ._Physics 115 A HW 3.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Mar  2  2020 ._Physics 115A HW 5.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 15  2020 ._Physics 115A HWWeek 1.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Oct 24  2019 ._Physics CS 34 HW 4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  6  2020 ._Physics CS 35 HW 4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 15  2020 ._Physics CS 35 HW WEEK 1.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 30  2020 ._Physics CS 35 hw 3.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 May  8  2019 ._Physics HW WEEK 5.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jul 22  2019 ._Physics_103_Homework_Week_4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jul 29  2019 ._Physics_103_Homework_Week_5 (1).pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  4  2020 ._Practice Midterm Exam.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Apr  2  2019 ._Problem_Solving_with_C++_(9th_Savitch).pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 14  2020 ._Spin_echo_in_NV_center1.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 21  2020 ._Testing New Cage.one*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 22  2020 ._Testing New Cage.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 11  2020 ._Testing Vibration Trial 1.txt*
+-rwxrwxrwx  1 changjin  staff        4096 Aug  8  2019 ._University of California, Santa Barbara Mail - CHANG JIN completed Annual Notification of UC Santa Barbara Substance Abuse Policy and Implementing Guidelines.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Apr  2  2019 ._[David_F._Anderson;_Timo_Sepp_l_inen;_Benedek_Va(z-lib.org).pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Dec  1  2018 ._black-and-white-christmas-card-templates-professional-template-regarding-christmas-card-templates-free-black-and-white.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Dec  1  2018 ._black-and-white-christmas-card-templates-professional-template-regarding-christmas-card-templates-free-black-and-white.png*
+-rwxrwxrwx  1 changjin  staff        4096 Jul 25  2019 ._dissertation_090716_BryanMyers.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 15  2020 ._hw2.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 20  2020 ._hw2_13b20.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Jan 26  2020 ._hw3_13b20.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  1  2019 ._hw4.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  8  2019 ._hw5.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Nov 30  2018 ._hw9-cs31.pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb  9  2019 ._i-765 Chang Jin copy .pdf*
+-rwxrwxrwx  1 changjin  staff        4096 Feb 11  2020 ._vibration testing t2.txt*
+drwxrwxrwx  1 changjin  staff       16384 Feb 13 02:20 .fseventsd/
+-rwxrwxrwx  1 changjin  staff     1270556 Sep 24  2019 00 STEP Module 03.pdf*
+-rwxrwxrwx  1 changjin  staff    91401488 Aug 30  2019 111 samples.one*
+-rwxrwxrwx@ 1 changjin  staff     2115624 Apr 21  2019 1811.04275.pdf*
+drwxrwxrwx  1 changjin  staff       49152 Sep  3  2019 2019_Aug_23/
+-rwxrwxrwx@ 1 changjin  staff       37036 Mar 13  2020 2020 CCS Summer Fellowship Application Form.docx*
+-rwxrwxrwx@ 1 changjin  staff       70225 Nov 29  2018 4A18FinalMaterials.pdf*
+-rwxrwxrwx@ 1 changjin  staff       34896 Nov 29  2018 4A18FinalPracticeProblems.pdf*
+-rwxrwxrwx@ 1 changjin  staff     6366788 Feb  4  2020 5_GeneLinkage.pdf*
+-rwxrwxrwx@ 1 changjin  staff    11097704 Feb  4  2020 5_GeneLinkageII.pdf*
+-rwxrwxrwx@ 1 changjin  staff     2205946 Feb  4  2020 5_GeneLinkageIII.pdf*
+-rwxrwxrwx@ 1 changjin  staff    42954040 Sep 17  2018 AmScopeSetup_Newest.exe*
+-rwxrwxrwx  1 changjin  staff    43941267 Aug  1  2019 AmScopeSetup_v3.7.13522.zip*
+-rwxrwxrwx@ 1 changjin  staff    18569226 Aug  1  2019 AmScopeToupViewSetup.exe*
+drwxrwxrwx  1 changjin  staff       16384 Sep  3  2019 Android/
+-rwxrwxrwx@ 1 changjin  staff      852411 May  8  2019 Ariyaratne_et_al-2018-Nature_Communications.pdf*
+-rwxrwxrwx@ 1 changjin  staff     2976587 Sep 17 23:48 ArroyoUpdate-x300-v2.15-B246.zip*
+-rwxrwxrwx  1 changjin  staff      395227 Oct  7  2019 Assignment1 (1).pdf*
+-rwxrwxrwx  1 changjin  staff      403851 Jan 12  2017 Back Up Your Files to the Cloud.pdf*
+-rwxrwxrwx  1 changjin  staff     8385803 Jul 22  2011 CATALYST FACILITIES & INSTALLATION SUPPORTE NOTE-C (013-457-000).pdf*
+-rwxrwxrwx  1 changjin  staff         412 Aug 31 22:41 CD Drive - Shortcut.lnk*
+drwxrwxrwx  1 changjin  staff       32768 Feb 29  2020 Differential Hahn Echo data Feb 28 2020/
+-rwxrwxrwx  1 changjin  staff       78067 Oct 10  2019 Engl10_CloseReadingExercise.pdf*
+-rwxrwxrwx@ 1 changjin  staff       41768 Nov 21  2019 English 10 Annotated Bibliography.docx*
+-rwxrwxrwx@ 1 changjin  staff       25200 Feb  5  2019 Exp. 3 WEEK 2 DATA TABLES W19.pdf*
+drwxrwxrwx  1 changjin  staff       16384 Mar  5  2000 GLXBackup/
+-rwxrwxrwx@ 1 changjin  staff     7325595 Nov 30  2018 HW 7 Correction.pdf*
+-rwxrwxrwx@ 1 changjin  staff     4095460 Jan 31  2019 HW WEEK 2 .pdf*
+drwxrwxrwx  1 changjin  staff       16384 Aug 22  2019 Hahn Echo Differential Measurement/
+-rwxrwxrwx@ 1 changjin  staff  2151762523 Dec 24  2018 Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4*
+drwxrwxrwx@ 1 changjin  staff       16384 Jul  8  2020 ImageScan/
+drwxrwxrwx  1 changjin  staff       16384 Sep 17 23:44 ImageScan_files/
+drwxrwxrwx@ 1 changjin  staff       16384 Jul  8  2020 ImageScan_v2019/
+-rwxrwxrwx  1 changjin  staff      275140 Aug 31 22:37 Image_1.tif*
+-rwxrwxrwx  1 changjin  staff      306700 Sep  1 19:05 Image_2inch.tif*
+-rwxrwxrwx  1 changjin  staff      307026 Sep  1 18:34 Image_2inch_t1.tif*
+-rwxrwxrwx  1 changjin  staff      367502 Sep  1 18:59 Image_3inch.tif*
+-rwxrwxrwx  1 changjin  staff      369618 Sep  1 18:36 Image_3inch_t1.tif*
+-rwxrwxrwx  1 changjin  staff      402092 Sep  1 18:57 Image_4inch.tif*
+-rwxrwxrwx  1 changjin  staff      397506 Sep  1 18:37 Image_4inch_t1.tif*
+drwxrwxrwx  1 changjin  staff       16384 Mar  4  2020 L002/
+drwxrwxrwx  1 changjin  staff       16384 Aug 16 01:58 L002 ImageScans Aug_14_2020/
+drwxrwxrwx  1 changjin  staff       16384 Mar  4  2020 L003/
+drwxrwxrwx  1 changjin  staff       16384 Sep  3  2019 LOST.DIR/
+drwxrwxrwx  1 changjin  staff       16384 Jul 10  2020 MATLAB/
+-rwxrwxrwx  1 changjin  staff       81931 Mar  5  2019 Midterm 3 Practice.pdf*
+-rwxrwxrwx@ 1 changjin  staff    89923210 Apr  2  2019 N  H Acheson - Fundamentals of molecular virology (2011, John Wiley & Sons).pdf*
+-rwxrwxrwx  1 changjin  staff    45171629 Jan 17  2011 NANOSCOPE SOFTWARE 8.10 USER GUIDE-D (004-1025-000).pdf*
+-rwxrwxrwx@ 1 changjin  staff    12378926 Feb 26  2020 Note Feb 23, 2020.pdf*
+-rwxrwxrwx@ 1 changjin  staff    11595359 Mar  4  2020 Note Mar 2, 2020.pdf*
+drwxrwxrwx  1 changjin  staff       16384 Aug 22  2019 Old Notes/
+-rwxrwxrwx@ 1 changjin  staff      154714 Jan 16  2020 PS2.pdf*
+-rwxrwxrwx@ 1 changjin  staff      131297 Feb 17  2020 PS4.pdf*
+-rwxrwxrwx@ 1 changjin  staff    20619114 Aug 20  2019 PSY_108_Ch.5_6.pdf*
+-rwxrwxrwx@ 1 changjin  staff    20605753 Aug 20  2019 PSY_108_Chapteer_3_4.pdf*
+-rwxrwxrwx@ 1 changjin  staff    13664707 Aug 20  2019 PSY_108_Chapter_1_2.pdf*
+-rwxrwxrwx@ 1 changjin  staff     2851748 Aug 20  2019 PSY_108_ch.4 end.pdf*
+-rwxrwxrwx@ 1 changjin  staff     3023545 Feb  7  2019 Phys CS 140 HW#3.pdf*
+-rwxrwxrwx@ 1 changjin  staff     9508312 Mar 12  2019 Phys CS 32 HW WEEK 9.pdf*
+-rwxrwxrwx@ 1 changjin  staff     3299133 Mar 12  2019 Phys CS 32 HW Week 7 Correction.pdf*
+-rwxrwxrwx@ 1 changjin  staff      535605 Apr 21  2019 PhysRevLett.122.076101.pdf*
+-rwxrwxrwx@ 1 changjin  staff    10107088 Jan 27  2020 Physics 102 HW WEEK 3.pdf*
+-rwxrwxrwx@ 1 changjin  staff     4182955 Aug  1  2019 Physics 103 Final Formula Sheet.pdf*
+-rwxrwxrwx@ 1 changjin  staff    13819665 Feb  3  2020 Physics 104 HW 4.pdf*
+-rwxrwxrwx@ 1 changjin  staff     9644620 Jan 20  2020 Physics 104 HW WEEK2.pdf*
+-rwxrwxrwx@ 1 changjin  staff    10269567 Mar  3  2020 Physics 104 HW7.pdf*
+-rwxrwxrwx@ 1 changjin  staff     4246437 Feb 10  2020 Physics 104 Notes sheet.pdf*
+-rwxrwxrwx@ 1 changjin  staff    12695786 Feb  3  2020 Physics 115 A HW 3.pdf*
+-rwxrwxrwx@ 1 changjin  staff    16363345 Mar  2  2020 Physics 115A HW 5.pdf*
+-rwxrwxrwx@ 1 changjin  staff    15618479 Jan 15  2020 Physics 115A HWWeek 1.pdf*
+-rwxrwxrwx@ 1 changjin  staff    13027494 Oct 24  2019 Physics CS 34 HW 4.pdf*
+-rwxrwxrwx@ 1 changjin  staff     9096056 Feb  6  2020 Physics CS 35 HW 4.pdf*
+-rwxrwxrwx@ 1 changjin  staff    12655432 Jan 15  2020 Physics CS 35 HW WEEK 1.pdf*
+-rwxrwxrwx@ 1 changjin  staff    13180312 Jan 30  2020 Physics CS 35 hw 3.pdf*
+-rwxrwxrwx@ 1 changjin  staff    14167178 May  8  2019 Physics HW WEEK 5.pdf*
+-rwxrwxrwx@ 1 changjin  staff     5256578 Jul 22  2019 Physics_103_Homework_Week_4.pdf*
+-rwxrwxrwx@ 1 changjin  staff     4982622 Jul 29  2019 Physics_103_Homework_Week_5 (1).pdf*
+-rwxrwxrwx  1 changjin  staff      479696 Oct  8  2019 Physics_CS_15A_HW (1).pdf*
+-rwxrwxrwx@ 1 changjin  staff      157511 Feb  4  2020 Practice Midterm Exam.pdf*
+-rwxrwxrwx@ 1 changjin  staff     6235875 Mar 21  2019 Problem_Solving_with_C++_(9th_Savitch).pdf*
+drwxrwxrwx  1 changjin  staff       16384 Feb 19  2020 Quantum115A/
+drwxrwxrwx  1 changjin  staff       16384 Dec  5  2019 Rubber band force vs time data/
+drwxrwxrwx  1 changjin  staff       16384 Aug 19  2019 Sample E1/
+drwxrwxrwx  1 changjin  staff       16384 Aug 19  2019 Sample E3/
+drwxrwxrwx  1 changjin  staff       16384 Mar 20  2017 SanDiskSecureAccess/
+-rwxrwxrwx  1 changjin  staff     8603432 Sep 20  2016 SanDiskSecureAccessV3.1_win.exe*
+drwxrwxrwx  1 changjin  staff       16384 Aug 26  2019 Sophia/
+-rwxrwxrwx@ 1 changjin  staff     1833781 Feb  7  2020 Spin_echo_in_NV_center1.pdf*
+drwxrwxrwx  1 changjin  staff       16384 Dec 31  2018 System Volume Information/
+-rwxrwxrwx  1 changjin  staff      186257 Jun 13  2019 TRAINING REQUIREMENTS FOR X-RAY-Rev0716 (2).pdf*
+-rwxrwxrwx  1 changjin  staff   380298125 Nov 15  2019 TSI_Camera_Setup_X64 (3).exe*
+-rwxrwxrwx@ 1 changjin  staff     9401088 Feb 21  2020 Testing New Cage.one*
+-rwxrwxrwx@ 1 changjin  staff     2255517 Feb 21  2020 Testing New Cage.pdf*
+-rwxrwxrwx@ 1 changjin  staff        1199 Feb 11  2020 Testing Vibration Trial 1.txt*
+drwxrwxrwx  1 changjin  staff       16384 Sep 18 19:05 Testing for PL saturation/
+-rwxrwxrwx@ 1 changjin  staff      122551 Aug  8  2019 University of California, Santa Barbara Mail - CHANG JIN completed Annual Notification of UC Santa Barbara Substance Abuse Policy and Implementing Guidelines.pdf*
+-rwxrwxrwx  1 changjin  staff      152122 Mar  5  2000 Untitled (3).glx*
+drwxrwxrwx  1 changjin  staff       16384 Nov  7 15:04 Vivian's data/
+-rwxrwxrwx@ 1 changjin  staff     3872486 Apr  2  2019 [David_F._Anderson;_Timo_Sepp_l_inen;_Benedek_Va(z-lib.org).pdf*
+drwxrwxrwx  1 changjin  staff       16384 Sep  4 21:52 beamSizeMeasure_t2/
+-rwxrwxrwx@ 1 changjin  staff      290113 Dec  1  2018 black-and-white-christmas-card-templates-professional-template-regarding-christmas-card-templates-free-black-and-white.pdf*
+-rwxrwxrwx@ 1 changjin  staff      285611 Dec  1  2018 black-and-white-christmas-card-templates-professional-template-regarding-christmas-card-templates-free-black-and-white.png*
+-rwxrwxrwx  1 changjin  staff       82930 Mar  5  2000 c1.glx*
+-rwxrwxrwx@ 1 changjin  staff    22965920 Jul 17  2019 dissertation_090716_BryanMyers.pdf*
+-rwxrwxrwx  1 changjin  staff        2170 Nov 15  2019 historigram beam confocal.txt*
+-rwxrwxrwx@ 1 changjin  staff       31475 Jan 15  2020 hw2.pdf*
+-rwxrwxrwx@ 1 changjin  staff       38747 Jan 20  2020 hw2_13b20.pdf*
+-rwxrwxrwx@ 1 changjin  staff       39187 Jan 26  2020 hw3_13b20.pdf*
+-rwxrwxrwx@ 1 changjin  staff       33496 Feb  1  2019 hw4.pdf*
+-rwxrwxrwx@ 1 changjin  staff       21493 Feb  8  2019 hw5.pdf*
+-rwxrwxrwx@ 1 changjin  staff       16052 Nov 30  2018 hw9-cs31.pdf*
+-rwxrwxrwx@ 1 changjin  staff      607647 Feb  9  2019 i-765 Chang Jin copy .pdf*
+-rwxrwxrwx  1 changjin  staff      179542 Nov 15  2019 image of the beam confocal setup with grid.PNG*
+-rwxrwxrwx  1 changjin  staff      392374 Nov 15  2019 image of the beam confocal setup.png*
+-rwxrwxrwx  1 changjin  staff       34443 Nov 15  2019 laser indensity plots confocal setup.PNG*
+-rwxrwxrwx  1 changjin  staff      104974 Oct 10  2019 machine shop access form_revised_10-12 chang.pdf*
+-rwxrwxrwx  1 changjin  staff     5491512 Feb  3 09:50 physrpi.zip*
+-rwxrwxrwx  1 changjin  staff      269290 Aug 31 22:38 picture_2.tif*
+-rwxrwxrwx  1 changjin  staff      269452 Aug 31 22:40 picture_3.tif*
+-rwxrwxrwx  1 changjin  staff           9 Jan 20 09:12 sample.txt*
+drwxrwxrwx  1 changjin  staff       16384 Oct  1 21:49 saturation measurements/
+-rwxrwxrwx@ 1 changjin  staff        3543 Feb 11  2020 vibration testing t2.txt*
+drwxrwxrwx  1 changjin  staff       16384 Aug 28 00:20 zero_field_c020_3_000016/
